@@ -63,6 +63,8 @@ Plenty of tools will auto-generate subtitles. This one is built around what happ
 - Lines you edited manually stop being flagged — no nagging about decisions you already made
 - Per-line style: free position, size, colour, weight
 - Inline emphasis: recolour just a few characters inside a line
+- **Interface language**: Simplified Chinese / English, switchable in Settings
+- **F11 fullscreen** (also available from the tray menu)
 
 ### Export
 
