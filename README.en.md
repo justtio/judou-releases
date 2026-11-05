@@ -9,7 +9,7 @@
 [![Latest](https://img.shields.io/github/v/release/justtio/judou-releases?label=version&color=2ea44f)](https://github.com/justtio/judou-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/justtio/judou-releases/total?color=0969da)](https://github.com/justtio/judou-releases/releases)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?logo=windows&logoColor=white)](#requirements)
-[![Offline](https://img.shields.io/badge/offline-capable-brightgreen)](#how-offline-is-it)
+[![Offline](https://img.shields.io/badge/offline-capable-brightgreen)](#why-this-exists)
 
 [Download](#download) · [Features](#features) · [FAQ](#faq) · [Changelog](CHANGELOG.md)
 
