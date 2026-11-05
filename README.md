@@ -9,7 +9,7 @@
 [![最新版本](https://img.shields.io/github/v/release/justtio/judou-releases?label=%E7%89%88%E6%9C%AC&color=2ea44f)](https://github.com/justtio/judou-releases/releases/latest)
 [![总下载](https://img.shields.io/github/downloads/justtio/judou-releases/total?label=%E4%B8%8B%E8%BD%BD&color=0969da)](https://github.com/justtio/judou-releases/releases)
 [![平台](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?logo=windows&logoColor=white)](#%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82)
-[![离线可用](https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF-%E5%8F%AF%E7%94%A8-brightgreen)](#%E7%A6%BB%E7%BA%BF%E8%83%BD%E5%81%9A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+[![离线可用](https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF-%E5%8F%AF%E7%94%A8-brightgreen)](#%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E5%AE%83)
 
 [下载](#%E4%B8%8B%E8%BD%BD) · [功能](#%E5%8A%9F%E8%83%BD) · [常见问题](#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98) · [更新日志](CHANGELOG.md)
 
